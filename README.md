@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="[Project]">
   <br />
-  <pre>duf</pre>
+  duf
 </h1>
 
-<p align="center"><b>This is the snap for <pre>duf</pre></b>, <i>“Disk Usage/Free Utility (Linux, BSD, macOS & Windows)”</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for duf</b>, <i>“Disk Usage/Free Utility (Linux, BSD, macOS & Windows)”</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
